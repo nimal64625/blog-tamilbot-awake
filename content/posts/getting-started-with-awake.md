@@ -1,51 +1,12 @@
 ---
-title: Getting Started
-subtitle: Get Up and Running with Awake
+title: வாழ்த்துக்கள் vs வாழ்த்துகள்
+subtitle: பன்மை விகுதி பற்றி அறிவோம்..
 category:
   - About Awake
-author: Daniel Kelly
-date: 2019-08-03T19:59:59.000Z
+author: அ.வி
+date: 2020-04-13T19:59:59.000Z
 featureImage: /uploads/getting-started-hero.jpg
 ---
-Awake is a Nuxt.js template for generating a beautifully robust static site with blog. 
+இது பொதுவாகவே மக்கள் மனதில் தோன்றும் ஒரு கேள்வி. இருந்தும் இதை பெரிதாக பொருட்படுத்துவதில்லை. ஏனெனில் சமூக வலைத்தளங்களில் இந்த இரண்டுமே சரளமாக பிரயோகிக்கப்படுகின்றன. இவற்றில் சரியானது எது என்பதை தெரிந்து கொள்வது அவசியமாகிறது.
 
-# Features
-
-* Simple modern design based on the Bulma css framework (with unused css purged via [purgecss](https://www.purgecss.com/))
-* Site search
-* Statically generated API for posts and categories
-* Disqus powered comments
-* Mailchimp powered newsletter
-* Highly customizable with out of the box configurations
-* Built with performance in mind
-* Isolated Netlify CMS driver (with more CMS drivers planned for future) for easily migrating between various headless cms'
-* Images automatically resized for various screens and given srcsets
-
-# Use Awake on Netlify
-
-Simply click the "Deploy to Netlify" button and then configure it to fit your needs as described below.
-
-[![Deploy to Netlify!!](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danielkellyio/awake-template)
-
-# Configuration
-
-Site configuration is found in `/config/_siteConfig.js`. Here you can customize site settings such as the site name, layout, disqus and mailchimp setup, image sizes and more. Any of these can be setup to use environment variables if you so desire, in order to be able to configure them directly from the Netlify interface. See the setup for google analytics which already uses an environment variable as an example of this.
-
-```
-googleAnalytics: {
-    on: true,
-    id: process.env.GOOGLE_ANALYTICS_ID
-},
-```
-
-# Editing Content
-
-Posts and categories can be edited in Netlify CMS at \[your-site-url]/admin. At this time any new pages must be created in the code itself and committed to the repo. Before you visit the admin for the first time, make sure you have [Netlify Identity](https://www.netlify.com/docs/identity/) setup with your user and make sure "Git Gateway" is enabled via the Identity Settings page in the Netlify admin. 
-
-# Local Development
-
-Since all content is store in the git repo with Netlify CMS, local development is a breeze. Simply install node, pull down the repo, install the dependencies with `npm install`, and run `npm run dev`.
-
-# Having Issues?
-
-If you're having any issues feel free to reach out to me on twitter [@danielkelly.io](https://twitter.com/danielkelly_io) or report an issue in [github repo](https://github.com/danielkellyio/awake-template).
+'கள்' என்பது பன்மை விகுதி. எனவே 'வாழ்த்து' உடன் சேர்க்கும்பொழுது 'க்' என்பது தேவையில்லை. அப்படி சேர்த்தால் என்னவாகும்? அப்படி 'க்' சேர்க்கும்பொழுது அதனுடைய பொருள் முழுவதுமாய் மாறுபடுகிறது. அந்த மாறுபட்ட பொருள் என்னவென்பதை உங்கள் யூகத்திற்கே விட்டுவிடுகிறேன் :)
