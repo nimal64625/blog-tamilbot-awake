@@ -9,17 +9,27 @@
   >
     <div>
       <network network="facebook">
-        <font-awesome-icon :icon="['fab', 'facebook']" />
+        <font-awesome-icon
+          :icon="['fab', 'facebook']"
+          style="font-size: 50px"
+        />
       </network>
       <network network="twitter">
-        <font-awesome-icon :icon="['fab', 'twitter']" />
+        <font-awesome-icon :icon="['fab', 'twitter']" style="font-size: 50px" />
       </network>
       <network network="pinterest">
-        <font-awesome-icon :icon="['fab', 'pinterest']" />
+        <font-awesome-icon
+          :icon="['fab', 'pinterest']"
+          style="font-size: 50px"
+        />
       </network>
       <network network="whatsapp">
-        <font-awesome-icon :icon="['fab', 'whatsapp']" />
+        <font-awesome-icon
+          :icon="['fab', 'whatsapp']"
+          style="font-size: 50px"
+        />
       </network>
+      <hr />
     </div>
   </social-sharing>
 </template>
