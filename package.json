@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-brands-svg-icons": "^5.13.0",
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
     "@fortawesome/vue-fontawesome": "^0.1.6",
     "@nuxtjs/axios": "^5.3.6",
@@ -44,9 +45,10 @@
     "showdown": "^1.9.1",
     "url-parse": "^1.4.7",
     "v-runtime-template": "^1.10.0",
-    "vue-disqus": "^3.0.5",
     "vue": "2.6.11",
-    "vue-server-renderer": "2.6.11"
+    "vue-disqus": "^3.0.5",
+    "vue-server-renderer": "2.6.11",
+    "vue-social-sharing": "^2.4.7"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^1.2.0",

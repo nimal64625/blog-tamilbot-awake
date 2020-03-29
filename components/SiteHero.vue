@@ -53,6 +53,32 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@font-face {
+  font-family: 'vanavil-avvaiyar';
+  src: url('/fonts/vanavil Avvaiyar.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'agni';
+  src: url('/fonts/Agni.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'kurinchi';
+  src: url('/fonts/Kurinchi ACI.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+.title {
+  font-family: 'kurinchi';
+  font-weight: 10;
+  @media (min-width: 768px) {
+    font-size: 2.2rem;
+  }
+}
+
 .hero {
   margin-top: 52px;
   background-size: cover !important;
@@ -62,12 +88,6 @@ export default {
   position: relative;
 }
 
-.title {
-  font-weight: 300;
-  @media (min-width: 768px) {
-    font-size: 3.2rem;
-  }
-}
 .subtitle,
 .under-subtitle {
   padding: 0;

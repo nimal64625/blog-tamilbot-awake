@@ -1,5 +1,8 @@
 <template>
-  <v-runtime-template class="content" :template="content"></v-runtime-template>
+  <v-runtime-template
+    class="content text"
+    :template="content"
+  ></v-runtime-template>
 </template>
 
 <script>
@@ -66,4 +69,30 @@ export default {
 }
 </script>
 
-<style scoped></style>
+<style scoped>
+@font-face {
+  font-family: 'vanavil-avvaiyar';
+  src: url('/fonts/vanavil Avvaiyar.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'agni';
+  src: url('/fonts/Agni.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'kurinchi';
+  src: url('/fonts/Kurinchi ACI1.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+.text {
+  font-family: 'kurinchi';
+  font-weight: 300;
+  @media (min-width: 768px) {
+    font-size: 3.2rem;
+  }
+}
+</style>

@@ -10,6 +10,7 @@ import SiteFooter from '../components/SiteFooter'
 import SiteHero from '../components/SiteHero'
 import SiteLogo from '../components/SiteLogo'
 import SiteNav from '../components/SiteNav'
+import MySocialSharing from '../components/MySocialSharing'
 import ResourceGrid from '~/components/grids/ResourceGrid'
 
 Vue.component(CategoriesGrid.name, CategoriesGrid)
@@ -24,3 +25,4 @@ Vue.component(SiteHero.name, SiteHero)
 Vue.component(SiteLogo.name, SiteLogo)
 Vue.component(SiteNav.name, SiteNav)
 Vue.component(ResourceGrid.name, ResourceGrid)
+Vue.component(MySocialSharing.name, MySocialSharing)

@@ -9,7 +9,7 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'அறிவோம் தெளிவோம்!',
+  siteName: 'Blogs @ TamilBot',
   tagline: 'Blogs @ TamilBot',
   featureImage: '/uploads/home-hero.jpg',
   logo: '/logo-blog1.svg', // 'logo-component', // or '/logo.svg' for regular image
@@ -47,16 +47,16 @@ export default {
     theme: 'boxes' // Options: boxes, grid, image-grid
   },
 
-  // Disqus
+  // Disqus *NIMAL - DISABLED*
   disqus: {
-    on: true,
+    on: false,
     loadingStrategy: 'button', // Options: onload, lazy, button
     siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
   },
 
-  // Newsletter Subscribe
+  // Newsletter Subscribe *NIMAL - DISABLED*
   newsletter: {
-    on: true,
+    on: false,
     heading: 'Subscribe to Our Newsletter',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
