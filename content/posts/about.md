@@ -1,6 +1,6 @@
 ---
-title: About
-subtitle: About
+title: AboutUs
+subtitle: AboutUs
 category:
   - Stories
 author: TamilBot
