@@ -9,7 +9,7 @@
       <template v-slot:default>
         <div class="content">
           <p>
-            Before you read further.. Why do you see English in most of the
+            Before you read further.. Why do you see English in some of the
             places in a Tamil Blog site? That's just need of the time where we
             have to keep certain portions of our site in English until search
             engine users become well versed with Tamil based search.
