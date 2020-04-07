@@ -1,6 +1,9 @@
 ---
-name: Blog Posts
-image: /logo.svg
-description: Blog Posts
+name: Stories
+image: /uploads/stories-banner.jpeg
+description: |-
+  Stories for Kids
+
+  Short Stories
 ---
 All about the Awake Nuxt Template
