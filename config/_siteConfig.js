@@ -10,12 +10,12 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Blogs @ TamilBot',
-  tagline: 'Blogs @ TamilBot',
+  tagline: 'Blogs at TamilBot',
   featureImage: '/uploads/home-hero.jpg',
   logo: '/logo-blog1.svg', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
-    id: process.env.GOOGLE_ANALYTICS_ID
+    id: 'UA-163435387-1'
   },
   mainMenu: [
     {
