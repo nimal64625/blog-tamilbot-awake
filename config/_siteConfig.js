@@ -15,7 +15,7 @@ export default {
   logo: '/logo-blog1.svg', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
-    id: 'UA-163435387-1'
+    id: 'UA-163435387-2'
   },
   mainMenu: [
     {
