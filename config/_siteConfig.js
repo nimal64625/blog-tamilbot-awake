@@ -23,8 +23,16 @@ export default {
       link: '/about'
     },
     {
+      name: 'Send Content',
+      link: '/submit-content'
+    },
+    {
       name: 'Categories',
       link: '/categories'
+    },
+    {
+      name: 'TamilBot.com',
+      link: 'https://tamilbot.com'
     }
   ],
   hero: {

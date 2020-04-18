@@ -28,7 +28,8 @@
             and thoughts and to make them publish ready.
           </p>
           <p>
-            Enjoy our blog and services. If you dont like anything, let us know; If you like something, let everyone know.
+            Enjoy our blog and services. If you dont like anything, let us know;
+            If you like something, let everyone know..
           </p>
         </div>
       </template>
