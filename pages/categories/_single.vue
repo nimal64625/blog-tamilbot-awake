@@ -9,6 +9,7 @@
       <template v-slot:default>
         <!-- Posts in Category -->
         <posts-grid :category="[$store.state.name]" :per-row="2" />
+        <my-social-sharing />
       </template>
       <template v-slot:sidebar>
         <h3 class="subtitle">

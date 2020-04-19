@@ -42,7 +42,7 @@ export default {
         {
           hid: 'og:url',
           property: 'og:url',
-          content: this.url
+          content: 'blog.tamilbot.com' + `${this.$route.fullPath}`
         },
         {
           hid: 'twitter:card',
