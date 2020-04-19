@@ -1,7 +1,8 @@
 <template>
   <social-sharing
-    :title="title"
-    :description="description"
+    :url="constructedUrl"
+    :title="this.$store.state.title"
+    :description="this.$store.state.subtitle"
     hashtags="TamilBot,Blog"
     twitter-user="vuejs"
     inline-template
@@ -34,6 +35,11 @@
 </template>
 <script>
 export default {
-  name: 'MySocialSharing'
+  name: 'MySocialSharing',
+  data() {
+    return {
+      constructedUrl: 'blog.tamilbot.com' + `${this.$route.fullPath}`
+    }
+  }
 }
 </script>
