@@ -27,16 +27,16 @@
           </p>
           <hr />
           <p>
-            <b>"நேயர் பக்கம்"</b> is a category where we accept stories and
-            content designed for kids. It'll be published under separate
-            category with your preferred Name as Author. We encourage authors to
-            submit the content through either of the ways below:
+            <b>"Fan Page"</b> is a category where we accept stories and content
+            designed for kids. It'll be published under separate category with
+            your preferred Name as Author. We encourage authors to submit the
+            content through either of the ways below:
           </p>
           <p>
             1. Submit through tamilbot.com (PREFERRED): Create an account and
             login to tamilbot.com, and submit the content for review; Please
             ensure to quote that you want to publish it in blog under the
-            category "நேயர் பக்கம்"
+            category "Fan Page"
           </p>
           <p>
             2. Submit through Email: Send the content as attachment or plain

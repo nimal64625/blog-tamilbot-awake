@@ -23,11 +23,11 @@ export default {
       link: '/about'
     },
     {
-      name: 'Send Content',
-      link: '/submit-content'
+      name: 'Fan Page',
+      link: '/catagories/fan-page'
     },
     {
-      name: 'Categories',
+      name: 'All Categories',
       link: '/categories'
     },
     {

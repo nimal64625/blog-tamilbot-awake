@@ -4,7 +4,15 @@
       :title="$store.state.name"
       :subtitle="$store.state.content"
       :image="$store.state.image"
-    />
+    >
+      <button
+        v-if="$store.state.name == 'Fan Page'"
+        class="button is-primary"
+        @click="goToSubmitContent()"
+      >
+        Sent Your Content
+      </button>
+    </site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <!-- Posts in Category -->
@@ -45,6 +53,11 @@ export default {
   },
   async created() {
     this.allCats = await this.$cms.category.getAll()
+  },
+  methods: {
+    goToSubmitContent() {
+      this.$router.push({ path: '/submit-content' })
+    }
   }
 }
 </script>
