@@ -10,7 +10,7 @@
         class="button is-primary"
         @click="goToSubmitContent()"
       >
-        Sent Your Content
+        Send Your Content
       </button>
     </site-hero>
     <main-section theme="sidebar-right">
