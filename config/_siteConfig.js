@@ -24,7 +24,7 @@ export default {
     },
     {
       name: 'Fan Page',
-      link: '/catagories/fan-page'
+      link: '/categories/fan-page'
     },
     {
       name: 'All Categories',
