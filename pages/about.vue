@@ -31,6 +31,10 @@
             Enjoy our blog and services. If you dont like anything, let us know;
             If you like something, let everyone know..
           </p>
+          <p>
+            Contact Us:
+            <a href="mailto:support@tamilbot.com">support@tamilbot.com</a>
+          </p>
         </div>
       </template>
 
