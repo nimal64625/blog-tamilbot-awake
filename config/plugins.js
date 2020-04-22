@@ -4,5 +4,6 @@ export default [
   '~/plugins/Disqus',
   '~/plugins/EventBus',
   '~/plugins/Components',
-  '~/plugins/socialsharing'
+  '~/plugins/socialsharing',
+  { src: '~plugins/ga.js', mode: 'client' }
 ]
