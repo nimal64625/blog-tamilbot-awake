@@ -1,5 +1,5 @@
 ---
-title: how to send your content
+title: Lets Bring Up The Writer Within
 subtitle: We are delighted to host your content
 category:
   - Official
