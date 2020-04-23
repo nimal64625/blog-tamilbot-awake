@@ -1,5 +1,5 @@
 ---
-title: Welcome Writers!
+title: Welcome Writers! Send Your Content!
 subtitle: We are delighted to host your content
 category:
   - Official
