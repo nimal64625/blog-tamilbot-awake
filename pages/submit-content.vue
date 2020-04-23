@@ -1,3 +1,4 @@
+// Unsused - as this page is moved to CMS post
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
