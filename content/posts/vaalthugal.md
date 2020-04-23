@@ -1,5 +1,5 @@
 ---
-title: vaalthugal
+title: வாழ்த்துக்கள் vs வாழ்த்துகள்
 subtitle: பன்மை விகுதி பற்றி அறிவோம்..
 category:
   - Official
