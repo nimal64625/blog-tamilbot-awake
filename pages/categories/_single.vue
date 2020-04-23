@@ -56,7 +56,7 @@ export default {
   },
   methods: {
     goToSubmitContent() {
-      this.$router.push({ path: '/submit-content' })
+      this.$router.push({ path: '/how-to-send-your-content' })
     }
   }
 }
