@@ -1,5 +1,5 @@
 ---
-title: Lets Bring Up The Writer Within
+title: Welcome Writers!
 subtitle: We are delighted to host your content
 category:
   - Official
